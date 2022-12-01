@@ -2,4 +2,4 @@
 
 Studying computer science at AGH UST.
 
-[Website](pawelfron.github.io)
+[Website](https://pawelfron.github.io)
